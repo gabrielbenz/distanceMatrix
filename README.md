@@ -2,13 +2,13 @@
 Just another util project to create a distance matrix, but simpler. :D
 
 # Whyyyy?
-Created to help myself and some colleagues in academic projects.
+Created to help myself and some colleagues in some academic projects.
 
 # How to use
 1. Get a Distance Matrix API Key: https://developers.google.com/maps/documentation/distance-matrix/ ;
 2. Download the jar under the folder `util`;
 3. Create a text file with the addresses (each address per line);
-4. Run `java -jar distanceMatrix.jar -apiKey <PUT HERE YOUR API KEY> -file <PUT HERE THE ADDRESSES FILE PATH>
+4. Run `java -jar distanceMatrix.jar -apiKey <PUT HERE YOUR API KEY> -file <PUT HERE THE ADDRESSES FILE PATH>`
 
 # The MIT License (MIT)
 Copyright (c) <year> <copyright holders>
