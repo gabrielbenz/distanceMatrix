@@ -9,6 +9,7 @@ Created to help myself and some colleagues in some academic projects.
 2. Download the jar under the folder `util`;
 3. Create a text file with the addresses (each address per line);
 4. Run `java -jar distanceMatrix.jar -apiKey <PUT HERE YOUR API KEY> -file <PUT HERE THE ADDRESSES FILE PATH>`
+5. A `distanceMatrix.txt` file will be created with the distance values in meters (or -1 in case of errors).
 
 # The MIT License (MIT)
 Copyright (c) <year> <copyright holders>
